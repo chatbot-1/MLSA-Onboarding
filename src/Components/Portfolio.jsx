@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/developer2.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "laptop background";
 
 /**
  * Project list
